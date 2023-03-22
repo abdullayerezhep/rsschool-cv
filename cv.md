@@ -6,9 +6,9 @@
  - GitHub: https://github.com/AbdullaYerezhep
 
 ## About me:
-    My goal is to become full-stack developer in next 3 years. I have studied basics of Computer Science in University of Information Technology and Management in IT/Programming specialisation after graduation I've worked as a BPM developer for two year where I have learned to program logic for different bussines processes and had an understanding of data, fields and state manipulations also it had a big impact in my understanding of system architectures.
-    Throughout this journey I realised that my desire for further advancement of my knowledge in creation multi-layer web application is getting stronger, and that I really enjoy creative solving and breaking hard challenges into smaller ones. 
-    I have achieved some crucial skills in IT area such as patience, communication(confident, articulate, and professional speaking abilities) and persistance which I know will help me to be one of the competent and competetive worker in your company.
+   My goal is to become full-stack developer in next 3 years. I have studied basics of Computer Science in University of Information Technology and Management in IT/Programming specialisation after graduation I've worked as a BPM developer for two year where I have learned to program logic for different bussines processes and had an understanding of data, fields and state manipulations also it had a big impact in my understanding of system architectures.
+   Throughout this journey I realised that my desire for further advancement of my knowledge in creation multi-layer web application is getting stronger, and that I really enjoy creative solving and breaking hard challenges into smaller ones. 
+   I have achieved some crucial skills in IT area such as patience, communication(confident, articulate, and professional speaking abilities) and persistance which I know will help me to be one of the competent and competetive worker in your company.
     
 ## Skills
  - Html/Css
