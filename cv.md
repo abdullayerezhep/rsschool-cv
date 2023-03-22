@@ -11,17 +11,17 @@
    I have achieved some crucial skills in IT area such as patience, communication(confident, articulate, and professional speaking abilities) and persistance which I know will help me to be one of the competent and competetive worker in your company.
     
 ## Skills
- - Html/Css
+ - HTML/CSS
  - Golang
- - JS/Node
+ - JS/Node/JQuery/React
  - SQL
  - Docker
  - Git
 ## Code Example
 **CodeWars: Take a Ten Minutes Walk** 
-###Description:
+### Description:
 You live in the city of Cartesia where all roads are laid out in a perfect grid. You arrived ten minutes too early to an appointment, so you decided to take the opportunity to go for a short walk. The city provides its citizens with a Walk Generating App on their phones -- everytime you press the button it sends you an array of one-letter strings representing directions to walk (eg. ['n', 's', 'w', 'e']). You always walk only a single block for each letter (direction) and you know it takes you one minute to traverse one city block, so create a function that will return true if the walk the app gives you will take you exactly ten minutes (you don't want to be early or late!) and will, of course, return you to your starting point. Return false otherwise.
-###Solution:
+### Solution:
 ```
     function isValidWalk(walk) {
         if (walk.length !== 10) {
@@ -45,8 +45,13 @@ You live in the city of Cartesia where all roads are laid out in a perfect grid.
       }
 ```
 ## Work Experience
-
+- BPM Developer
+- Pet projects:
+Ascii-art-web(Golang/Js) https://github.com/AbdullaYerezhep/ascii-art-web
+Groupie-Tracker(Golang/Js) https://github.com/AbdullaYerezhep/groupie-tracker
+Heroes(Js) https://github.com/AbdullaYerezhep/heroes
 ## Education
-
+Programmin - University of Information Technology and Management(Poland)
 ## English
+C1
 
