@@ -45,11 +45,11 @@ You live in the city of Cartesia where all roads are laid out in a perfect grid.
       }
 ```
 ## Work Experience
-- BPM Developer
-- Pet projects:
-Ascii-art-web(Golang/Js) https://github.com/AbdullaYerezhep/ascii-art-web
-Groupie-Tracker(Golang/Js) https://github.com/AbdullaYerezhep/groupie-tracker
-Heroes(Js) https://github.com/AbdullaYerezhep/heroes
+### BPM Developer
+### Pet projects:
+- Ascii-art-web(Golang/Js) https://github.com/AbdullaYerezhep/ascii-art-web
+- Groupie-Tracker(Golang/Js) https://github.com/AbdullaYerezhep/groupie-tracker
+- Heroes(Js) https://github.com/AbdullaYerezhep/heroes
 ## Education
 Programmin - University of Information Technology and Management(Poland)
 ## English
